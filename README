@@ -8,7 +8,7 @@ To downloading from the Maven SimpleCaptcha GitHub repository add the following 
 	<repositories>
 		<repository>
 			<id>SimpleCaptchaRepository</id>
-			<url>https://raw.github.com/0x0000-dot-ru/simplecaptcha/master/repository/releases</url>
+			<url>https://raw.github.com/dmitriipol1/simplecaptcha/master/repository/releases</url>
 		</repository>
 	<repository>
 
